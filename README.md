@@ -4,5 +4,4 @@
   <img src="/git_images/2.png" width="32.5%" /> 
   <img src="/git_images/3.png" width="32.5%" />
 </p>
-<br>
 <img src="/digits.png", width = "100%">
